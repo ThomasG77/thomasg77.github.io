@@ -1,5 +1,5 @@
 name: GIS and dev experiments
-baseurl: http://thomasg77.github.io/
+baseurl: http://localhost/
 
 permalink: /:year/:month/:day/:title.html
 
@@ -9,4 +9,5 @@ github_url: http://github.com/ThomasG77
 twitter_name: ThomasG77
 twitter_url: http://twitter.com/ThomasG77
 
+relative_permalinks: false
 pygments: true
