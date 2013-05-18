@@ -1,5 +1,5 @@
 name: GIS and dev experiments
-baseurl: thomasg77.github.io/
+baseurl: http://thomasg77.github.io/
 
 permalink: /:year/:month/:day/:title.html
 
