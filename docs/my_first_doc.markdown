@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Configuration
-permalink: /test/
+permalink: /docs/test/
 ---
 
 An h1 header
