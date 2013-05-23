@@ -133,8 +133,10 @@ ul.posts span {
 /* standard */
 #post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  background-color: #F8F8F8;
+  margin-bottom: 15px;
+  padding: 15px;
+  overflow: auto;
 }
 
 #post ul, #post ol {
@@ -143,12 +145,34 @@ ul.posts span {
 
 #post code {
   border: 1px solid #ddd;
-  background-color: #eef;
   padding: 0 .2em;
 }
 
 #post pre code {
   border: none;
+}
+
+#post h1 {
+  font-size: 26px;
+  margin: 15px 0;
+}
+
+#post h2 {
+  font-size: 22px;
+  margin: 15px 0;
+}
+
+#post h3 {
+  font-size: 16px;
+  margin: 10px 0 5px;
+}
+#post h4, h5, h6{
+  margin: 10px 0 5px;
+}
+
+
+#post a {
+  color: #AA0000;
 }
 
 /* terminal */
