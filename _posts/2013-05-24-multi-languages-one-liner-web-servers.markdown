@@ -8,8 +8,6 @@ categories: server
 
 ---
 
-# One liner web server
-
 You have a lot of uses cases where you need to have a web server, like when you use ajax calls. We will review some way to do it with different programming languages.
 
 ## Ruby
