@@ -40,6 +40,6 @@ and launch
 
     perl -MHTTP::Server::Brick -e '$s=HTTP::Server::Brick->new(port=>8081); $s->mount("/"=>{path=>"/home/thomas/code"}); $s->start'
     
-Feel free to submit others examples with a Github push request going to [this post in my blog repository](https://github.com/ThomasG77/thomasg77.github.io/tree/master/_posts/2013-05-24-your-filename.md)
+Feel free to submit others examples with a Github push request going to [this post in my blog repository](https://github.com/ThomasG77/thomasg77.github.io/tree/master/_posts/2013-05-24-multi-languages-one-liner-web-servers.markdown)
 I will add credits if you do so !!
     
