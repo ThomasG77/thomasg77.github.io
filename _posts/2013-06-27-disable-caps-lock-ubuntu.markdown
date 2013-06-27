@@ -10,7 +10,7 @@ categories: linux
 
 I never use Caps Locks and sometimes I activate the key.
 
-A small "googling" enale me to find how to stop the key to work.
+A small "googling" help me find how to stop the key to work.
 
 You can do it with:
 
