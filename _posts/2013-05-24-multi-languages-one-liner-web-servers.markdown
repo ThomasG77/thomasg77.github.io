@@ -22,6 +22,10 @@ You have a lot of uses cases where you need to have a web server, like when you 
 ### Version 3
     python3 -m http.server
 
+### Twisted python library way in Python
+
+twistd -n web --path . --port 8000
+
 ## Node
 
 Not built-in so install doing
