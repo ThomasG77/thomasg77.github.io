@@ -23,8 +23,7 @@ You have a lot of uses cases where you need to have a web server, like when you 
     python3 -m http.server
 
 ### Twisted python library way in Python
-
-twistd -n web --path . --port 8000
+    twistd -n web --path . --port 8000
 
 ## Node
 
