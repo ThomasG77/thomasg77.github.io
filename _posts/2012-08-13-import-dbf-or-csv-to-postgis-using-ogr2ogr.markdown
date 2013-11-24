@@ -1,5 +1,10 @@
----layout: post title: "Import DBF/CSV to PostGIS using ogr2ogr" date:
-2012-08-13 23:46 comments: true categories: ---
+---
+layout: post
+title:  "Import DBF/CSV to PostGIS using ogr2ogr"
+date:   2012-08-13 23:46
+tags: ogr2ogr gis postgis
+categories: gis
+---
 
 Recently, I read a [post from Nathaniel
 Kelso](http://kelsocartography.com/blog/?p=4240) about some behaviours
